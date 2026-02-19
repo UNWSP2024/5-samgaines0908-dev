@@ -10,7 +10,7 @@
 def kilometer_conversion(kilometers):    
     ##################
     #Mile to Kilometer conversion 
-    mile = kilometer * 0.6214
+    miles = kilometers * 0.6214
     ######################    
 
 
