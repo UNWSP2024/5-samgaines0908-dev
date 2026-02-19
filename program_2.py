@@ -1,7 +1,7 @@
 # Program #2: Math Quiz
 # Write a program that gives simple math quizzes.  The program should display two random numbers to be added, such as
 
-#     247
+#     247 
 
 # + 129
 
